@@ -2,7 +2,6 @@
 
 This project is a build of my official Software Developer portfolio.
 
-![sneak peak of project deployment](Assets/sneak_peak.JPG)
 
 
 The project showcases previous projects with links to visit and explore its awesome features
